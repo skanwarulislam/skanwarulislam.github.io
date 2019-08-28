@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>আনোয়ারের হোম</title>
-    <link>/bn/</link>
+    <link>https://www.skanwarulislam.com/bn/</link>
     <description>Recent content on আনোয়ারের হোম</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate>
     
-	<atom:link href="/bn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.skanwarulislam.com/bn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>আমার প্রথম কলাম</title>
-      <link>/bn/posts/first-initiative/</link>
+      <link>https://www.skanwarulislam.com/bn/posts/first-initiative/</link>
       <pubDate>Tue, 27 Aug 2019 20:52:46 +0200</pubDate>
       
-      <guid>/bn/posts/first-initiative/</guid>
+      <guid>https://www.skanwarulislam.com/bn/posts/first-initiative/</guid>
       <description>কাজ ছলসে পুরো দমে
 আমি bআনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/bn/contact/</link>
+      <link>https://www.skanwarulislam.com/bn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bn/contact/</guid>
+      <guid>https://www.skanwarulislam.com/bn/contact/</guid>
       <description>ইমেইল করুন, contact@skanwarulislam
 টুইটার ফল্লও, @skanwar_islam</description>
     </item>
     
     <item>
       <title>আকাম</title>
-      <link>/bn/projects/</link>
+      <link>https://www.skanwarulislam.com/bn/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bn/projects/</guid>
+      <guid>https://www.skanwarulislam.com/bn/projects/</guid>
       <description>কাজ ছলসে পুরো দমে</description>
     </item>
     
     <item>
       <title>আমার সম্পর্কে</title>
-      <link>/bn/about/</link>
+      <link>https://www.skanwarulislam.com/bn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bn/about/</guid>
+      <guid>https://www.skanwarulislam.com/bn/about/</guid>
       <description>কাজ ছলসে পুরো দমে
 আমি bআনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
     </item>
