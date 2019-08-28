@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anwar&#39;s Home</title>
-    <link>http://www.skanwarulislam.com/</link>
+    <link>/</link>
     <description>Recent content on Anwar&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate>
     
-	<atom:link href="http://www.skanwarulislam.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Initiative</title>
-      <link>http://www.skanwarulislam.com/posts/first-initiative/</link>
+      <link>/posts/first-initiative/</link>
       <pubDate>Tue, 27 Aug 2019 20:52:46 +0200</pubDate>
       
-      <guid>http://www.skanwarulislam.com/posts/first-initiative/</guid>
+      <guid>/posts/first-initiative/</guid>
       <description>I have been trying to create my own website for sometime now. But never been able to finish it. But this time I was determind and started this initiative. I will try to post thing, which I thing might be useful to others which is the second reason. The first reason is for the sake of myself so that I can document which can reuse in future.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://www.skanwarulislam.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.skanwarulislam.com/about/</guid>
+      <guid>/about/</guid>
       <description>Hi I am Anwar. I am a technology enthugist with solid experience building and maintaining enterprise solutions into public cloud. I like to build containerized micro services whenever its suitable. Now a days I am interested in Authenicaiton and Authorization and security aspects around it. It&amp;rsquo;s indeed a exciting and interesting area. I am big fan of infrasture as code. I also like to see monitoring matrics to learn more about the applicaition and system to make it perform better.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.skanwarulislam.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.skanwarulislam.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>Email me, contact@skanwarulislam
 Follow me, @skanwar_islam</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.skanwarulislam.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.skanwarulislam.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Under construction</description>
     </item>
     
