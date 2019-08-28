@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on আনোয়ারের হোম</title>
+    <link>http://www.skanwarulislam.com/bn/categories/</link>
+    <description>Recent content in Categories on আনোয়ারের হোম</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.skanwarulislam.com/bn/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>http://www.skanwarulislam.com/bn/categories/blog/</link>
+      <pubDate>Tue, 27 Aug 2019 20:52:46 +0200</pubDate>
+      
+      <guid>http://www.skanwarulislam.com/bn/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
