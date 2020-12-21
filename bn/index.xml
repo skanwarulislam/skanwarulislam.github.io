@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>আনোয়ারের হোম</title>
@@ -6,11 +6,7 @@
     <description>Recent content on আনোয়ারের হোম</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.skanwarulislam.com/bn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate><atom:link href="https://www.skanwarulislam.com/bn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>আমার প্রথম কলাম</title>
       <link>https://www.skanwarulislam.com/bn/posts/first-initiative/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://www.skanwarulislam.com/bn/posts/first-initiative/</guid>
       <description>কাজ ছলসে পুরো দমে
-আমি bআনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
+আমি আনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
     </item>
     
     <item>
@@ -47,7 +43,7 @@
       
       <guid>https://www.skanwarulislam.com/bn/about/</guid>
       <description>কাজ ছলসে পুরো দমে
-আমি bআনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
+আমি আনোয়ার। টেকনোলজি নিয়ে আগ্রহী</description>
     </item>
     
   </channel>

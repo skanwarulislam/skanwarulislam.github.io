@@ -1,21 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.skanwarulislam.com/bn/categories/blog/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.skanwarulislam.com/categories/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.skanwarulislam.com/bn/categories/blog/"
-                />
-  </url>
   
   <url>
     <loc>https://www.skanwarulislam.com/bn/tags/blog/</loc>
@@ -29,6 +14,21 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/tags/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.skanwarulislam.com/bn/categories/blog/</loc>
+    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.skanwarulislam.com/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.skanwarulislam.com/bn/categories/blog/"
                 />
   </url>
   

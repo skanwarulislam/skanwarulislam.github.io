@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anwar&#39;s Home</title>
@@ -6,18 +6,14 @@
     <description>Recent content in Posts on Anwar&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.skanwarulislam.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Aug 2019 20:52:46 +0200</lastBuildDate><atom:link href="https://www.skanwarulislam.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Initiative</title>
       <link>https://www.skanwarulislam.com/posts/first-initiative/</link>
       <pubDate>Tue, 27 Aug 2019 20:52:46 +0200</pubDate>
       
       <guid>https://www.skanwarulislam.com/posts/first-initiative/</guid>
-      <description>I have been trying to create my own website for sometime now. But never been able to finish it. But this time I was determind and started this initiative. I will try to post thing, which I thing might be useful to others which is the second reason. The first reason is for the sake of myself so that I can document which can reuse in future.</description>
+      <description>I have been trying to create my own website for sometime now. But never been able to finish it. But this time I was determind and started this initiative. I will try to post thing, which I thnk might be useful to others. Another reason is to document useful things here, which are easy to forget so that I can just look into it whenever I need it.</description>
     </item>
     
   </channel>
