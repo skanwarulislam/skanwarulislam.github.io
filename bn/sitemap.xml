@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.skanwarulislam.com/bn/tags/blog/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/tags/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/categories/blog/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/categories/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/categories/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/posts/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/tags/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/posts/first-initiative/</loc>
     <lastmod>2019-08-27T20:52:46+02:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/posts/first-initiative/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,9 +104,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,9 +116,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -147,9 +128,7 @@
                 hreflang="bn"
                 href="https://www.skanwarulislam.com/bn/projects/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.skanwarulislam.com/bn/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,5 +141,4 @@
                 href="https://www.skanwarulislam.com/bn/about/"
                 />
   </url>
-  
 </urlset>
