@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.skanwarulislam.com/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.skanwarulislam.com/tags/blog/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.skanwarulislam.com/categories/blog/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://www.skanwarulislam.com/categories/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -52,6 +52,63 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.skanwarulislam.com/categories/"
+                />
+  </url><url>
+    <loc>https://www.skanwarulislam.com/posts/pappa-perm/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/tags/norway/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/series/pappaperm/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/tags/pappaperm/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/tags/parenting/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/categories/parenting/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.skanwarulislam.com/posts/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.skanwarulislam.com/bn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.skanwarulislam.com/posts/"
+                />
+  </url><url>
+    <loc>https://www.skanwarulislam.com/series/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.skanwarulislam.com/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.skanwarulislam.com/series/"
+                />
+  </url><url>
+    <loc>https://www.skanwarulislam.com/tags/</loc>
+    <lastmod>2021-10-02T01:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.skanwarulislam.com/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.skanwarulislam.com/tags/"
                 />
   </url><url>
     <loc>https://www.skanwarulislam.com/posts/first-initiative/</loc>
@@ -65,32 +122,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.skanwarulislam.com/posts/first-initiative/"
-                />
-  </url><url>
-    <loc>https://www.skanwarulislam.com/posts/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.skanwarulislam.com/bn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.skanwarulislam.com/posts/"
-                />
-  </url><url>
-    <loc>https://www.skanwarulislam.com/tags/</loc>
-    <lastmod>2019-08-27T20:52:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.skanwarulislam.com/bn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.skanwarulislam.com/tags/"
                 />
   </url><url>
     <loc>https://www.skanwarulislam.com/about/</loc>
@@ -127,18 +158,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.skanwarulislam.com/projects/"
-                />
-  </url><url>
-    <loc>https://www.skanwarulislam.com/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.skanwarulislam.com/bn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.skanwarulislam.com/series/"
                 />
   </url>
 </urlset>
